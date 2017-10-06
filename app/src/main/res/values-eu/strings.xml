@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">Galdera</string>
+    <string name="check">Baieztatu</string>
+    <string name="app_name">Quiz</string>
+    <string name="question_content">Zein da Gipuzkoako hiriburua?</string>
+    <string name="correct">Zuzena da!</string>
+    <string name="incorrect">Saiatu berriro</string>
+</resources>
